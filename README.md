@@ -59,7 +59,7 @@ Un miroir qui s'intègre **passivement** à la routine matinale. L'utilisateur f
 ### 💼 Kaoutar Boubkari
 **Lead Business — Stratégie & Marché**
 
-📧 [kaoutar.boubkari@example.com](#)
+📧 [boubkarikaoutar1@gmail.com](#)
 
 **Responsabilités principales :**
 - Étude de marché & validation stratégique
@@ -78,7 +78,7 @@ Un miroir qui s'intègre **passivement** à la routine matinale. L'utilisateur f
 ### 💰 Yahya Rmili
 **Lead Business — Finance & Opérations**
 
-📧 [yahya.rmili@example.com](#)
+📧 [rmiliyahya2@gmail.com](#)
 🔗 [@RmiliYahya1](https://github.com/RmiliYahya1) — *Owner du repository*
 
 **Responsabilités principales :**
@@ -99,7 +99,7 @@ Un miroir qui s'intègre **passivement** à la routine matinale. L'utilisateur f
 ### 🧠 Majdouline Sabri
 **Lead IA & Computer Vision**
 
-📧 [majdouline.sabri@example.com](#)
+📧 [majdoulinesb1@gmail.com](#)
 
 **Responsabilités principales :**
 - Architecture du pipeline de traitement IA
@@ -265,7 +265,7 @@ Bio_Mirror/
 
 ## ⚙️ Installation & Lancement
 
-> ⚠️ **En cours de développement.** Les commandes ci-dessous reflètent la structure cible. Elles seront finalisées au fur et à mesure de l'implémentation du POC.
+> ⚠️ **En cours de développement.** 
 
 ### Prérequis
 - Python 3.10 ou supérieur
@@ -416,7 +416,9 @@ BioMirror est rigoureusement positionné comme un **outil d'auto-évaluation du 
 Pour toute question concernant le projet BioMirror :
 
 - 🌐 **Repository GitHub :** [github.com/RmiliYahya1/Bio_Mirror](https://github.com/RmiliYahya1/Bio_Mirror)
-- 📧 **Contact équipe :** *(à compléter)*
+- 📧 **Kaoutar Boubkari :** [boubkarikaoutar1@gmail.com](mailto:boubkarikaoutar1@gmail.com)
+- 📧 **Yahya Rmili :** [rmiliyahya2@gmail.com](mailto:rmiliyahya2@gmail.com)
+- 📧 **Majdouline Sabri :** [majdoulinesb1@gmail.com](mailto:majdoulinesb1@gmail.com)
 
 ---
 
